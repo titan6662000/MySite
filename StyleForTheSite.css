@@ -1,0 +1,29 @@
+.WStyleBlocks{
+width:600px;
+max-width:900px;
+background-color:#bfbfff;
+}
+.ClassCenterBlock{
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.ClassTopMenu{
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+.boxTopMenuLevel1{
+    float: left;
+    width: 50%;
+    padding: 50px;
+	
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
